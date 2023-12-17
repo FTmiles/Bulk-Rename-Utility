@@ -1,4 +1,7 @@
-Bulk Rename Utility can rename multiple files at once. Main features:
+## **Bulk Rename Utility** 
+Renames multiple files at once. 
+
+## Main features:
 Filtering
 - Filter by filename
 - Filter by file extension
@@ -10,5 +13,12 @@ Editing
 - Add a suffix
 - Delete characters from either start or end
 - Incremental file numbering with an optional offset
-  - Numbering either rolling for all files, or restarts in each folder
- 
+  - Either rolling for all files,
+  - Or restarts in each folder.
+
+## Screenshots
+1. Filtering and editing file names
+ ![screenshot1](readme/1.png?raw=true "screenshot1")
+
+2. submitted changes, caching - success!!
+ ![screenshot1](readme/2.png?raw=true "screenshot2")
