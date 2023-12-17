@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BulkRename:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BulkRename_jar</output-path>
+    <root id="archive" name="BulkRename.jar">
+      <element id="module-output" name="BulkRename" />
+    </root>
+  </artifact>
+</component>
